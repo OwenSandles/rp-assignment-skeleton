@@ -10,6 +10,8 @@ To use this project in Eclipse create a new standard Java project from it (e.g. 
  * the rp-pc project (add via Java Build Path > Projects)
  * the leJOS PC library (add via Java Build Path > Libraries > Add Library...)
  * the JUnit 4 library (add via Java Build Path > Libraries > Add Library...)
+ 
+ TEST
 
 ## Command Line
 
